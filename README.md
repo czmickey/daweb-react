@@ -2,7 +2,14 @@
 
 Materiály pro předmět React v rámci Digitální akademii: Web v Českých Budějovicích
 
+## VS Code nastavení
+
+- Nastavení VS Code se načte ze souboru [.vscode/settings.json](.vscode/settings.json)
+- Vycházel jsem z https://kodim.cz/czechitas/daweb/priprava/instalace-nastroju/#visual-studio-code
+  - Pouze velikost písma jsem nastavil na `13`
+
 ## Starter pack
+
 - Aktuální zdroj: https://github.com/Czechitas-podklady-WEB/project-starter/archive/react-starter.zip
 - Rozbalený archiv: [00-starter-pack](00-starter-pack)
 
