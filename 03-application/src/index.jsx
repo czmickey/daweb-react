@@ -5,15 +5,17 @@ import Header from './components/Header';
 import './index.html';
 import Main from './Main';
 
-const App = (
-  <>
-    <Header title="Titulek stránka" />
-    <Main content="Text z komponenty Main" />
-    <Footer author="Já" />
-  </>
-);
+const App = () => {
+  return (
+    <>
+      <Header title="Titulek stránka" />
+      <Main content="Text z komponenty Main" />
+      <Footer author="Já" />
+    </>
+  );
+};
 
 render(
-  App,
+  <App />,
   document.querySelector('#app'),
 );
