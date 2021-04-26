@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 import './index.html';
-import './style.css'; 
+import './style.css';
 
 const name = 'Michal Oktábec';
 const cssIntro = 'intro';
@@ -20,7 +20,4 @@ const App = () => {
   );
 };
 
-render(
-  <App />,
-  document.querySelector('#app'),
-);
+render(<App />, document.querySelector('#app'));

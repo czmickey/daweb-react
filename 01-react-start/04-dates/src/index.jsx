@@ -4,7 +4,4 @@ import App from './components/App';
 import './index.html';
 import './style.css';
 
-render(
-  <App />,
-  document.querySelector('#app'),
-);
+render(<App />, document.querySelector('#app'));
