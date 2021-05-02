@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Main = (props) => {
+const Main = ({ content }) => {
   return (
     <main>
-      <p>{props.content}</p>
+      <p>{content}</p>
     </main>
   );
 };

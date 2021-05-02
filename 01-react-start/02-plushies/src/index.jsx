@@ -29,16 +29,14 @@ const plushy = (props) => {
   );
 };
 
-const App = () => {
-  return (
-    <>
-      <h1>Plyšáci</h1>
-      <div className="plushies">
-        {plushy(plushy1)}
-        {plushy(plushy2)}
-      </div>
-    </>
-  );
-};
+const App = () => (
+  <>
+    <h1>Plyšáci</h1>
+    <div className="plushies">
+      {plushy(plushy1)}
+      {plushy(plushy2)}
+    </div>
+  </>
+);
 
 render(<App />, document.querySelector('#app'));
