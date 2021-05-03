@@ -19,22 +19,20 @@ const plushy2 = {
     'Jerry tráví svůj čas v blízkosti lednice a s očekáváním pozoruje její bílé dveře.',
 };
 
-const plushy = (props) => {
-  return (
-    <div className="plushy">
-      <img className="plushy__image" src={props.image} />
-      <h2 className="plushy__name">{props.name}</h2>
-      <p className="plushy__text">{props.text}</p>
-    </div>
-  );
-};
-
 const App = () => (
   <>
     <h1>Plyšáci</h1>
     <div className="plushies">
-      {plushy(plushy1)}
-      {plushy(plushy2)}
+      <div className="plushy">
+        <img className="plushy__image" src={plushy1.image} />
+        <h2 className="plushy__name">{plushy1.name}</h2>
+        <p className="plushy__text">{plushy1.text}</p>
+      </div>
+      <div className="plushy">
+        <img className="plushy__image" src={plushy2.image} />
+        <h2 className="plushy__name">{plushy2.name}</h2>
+        <p className="plushy__text">{plushy2.text}</p>
+      </div>
     </div>
   </>
 );
