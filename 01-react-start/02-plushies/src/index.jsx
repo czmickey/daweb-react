@@ -19,7 +19,7 @@ const plushy2 = {
     'Jerry tráví svůj čas v blízkosti lednice a s očekáváním pozoruje její bílé dveře.',
 };
 
-const App = () => (
+const App = (
   <>
     <h1>Plyšáci</h1>
     <div className="plushies">
@@ -37,4 +37,4 @@ const App = () => (
   </>
 );
 
-render(<App />, document.querySelector('#app'));
+render(App, document.querySelector('#app'));
