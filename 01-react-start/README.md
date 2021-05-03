@@ -7,7 +7,6 @@
 - React Developer Tools
   - [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
   - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
-- [Create React App](https://create-react-app.dev/)
 
 ## Tutoriály
 
@@ -127,6 +126,8 @@ _Vykreslovanou komponentu změnit lze, ale jiným způsobem._
 
 ## 1. a 2. cvičení
 
+- vycházejí ze "starter packu"
+
 ---
 
 ## Komponenty a props
@@ -193,3 +194,7 @@ const ShoppingItem = (props) => {
 // React
 <button onClick={activateLasers}>...
 ```
+
+- [Create React App](https://create-react-app.dev/)
+  - obsahuje buildění, ale třeba i testy
+  - odstínění od webpacku
