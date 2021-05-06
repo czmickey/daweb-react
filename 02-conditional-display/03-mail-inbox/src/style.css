@@ -1,0 +1,12 @@
+.account {
+  color: #000;
+  background-color: #0b0;
+  border: 1px;
+  padding: 10px 15px;
+  border-radius: 20px;
+}
+
+.messages {
+  text-align: right;
+  margin: 10px 15px;
+}
