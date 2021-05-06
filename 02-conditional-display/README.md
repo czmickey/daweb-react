@@ -59,29 +59,6 @@ const UserHeader = ({id, name, orders}) => {
 };
 ```
 
-- Zkrácený return
-  - Můžeme použít, pokud komponenta obsahuje pouze JSX
-
-```
-// Původní způsob
-const Person = () => {
-  return (
-    <div>
-      <span>Jméno</span>
-      <span>Město</span>
-    </div>
-  );
-};
-
-// Zkrácený způsob
-const Person = () => (
-  <div>
-    <span>Jméno</span>
-    <span>Město</span>
-  </div>
-);
-```
-
 - Vytváření projektu - pomocí "create" balíčků
   - [Create React App](https://create-react-app.dev/)
     - obsahuje buildění, ale třeba i testy

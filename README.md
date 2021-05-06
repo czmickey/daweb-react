@@ -56,3 +56,15 @@ Materiály pro předmět React v rámci Digitální akademii: Web v Českých Bu
 
 - Zadání: https://kodim.cz/czechitas/daweb/react/podminene-zobrazeni/#exc-mejlik-hlavicka
 - Vypracování: [04-mail-header](02-conditional-display/04-mail-header)
+
+## 3. Zobrazování seznamů
+
+### 1 - Zkracovací jednohubky
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/seznamy/#exc-zkracovaci-jednohubky
+- Vypracování: [01-shortening](03-lists/01-shortening)
+
+### 2 - Opakování map
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/seznamy/#exc-opakovani-map
+- Vypracování: [01-shortening](03-lists/01-shortening)
