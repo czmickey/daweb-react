@@ -181,7 +181,6 @@ const ShoppingItem = (props) => {
 
 ## Dodatečné poznámky
 
-- příklad obnovení jen části stránky - "counter a klikání"
 - komentáře
   - využívají složené závorky jako výrazy: `{ /* komentar */ }`
   - nelze vložit komentář mimo hlavní element
