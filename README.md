@@ -35,7 +35,7 @@ Materiály pro předmět React v rámci Digitální akademii: Web v Českých Bu
 - Zadání: https://kodim.cz/czechitas/daweb/react/uvod-do-reactu/#exc-datumy
 - Vypracování: [04-dates](01-react-start/04-dates)
 
-## 2. Podmíněné zobrazení
+## 2. Podmíněné zobrazení
 
 ### 1 - Podmíněné jednohubky
 
