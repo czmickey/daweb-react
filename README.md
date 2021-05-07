@@ -67,4 +67,14 @@ Materiály pro předmět React v rámci Digitální akademii: Web v Českých Bu
 ### 2 - Opakování map
 
 - Zadání: https://kodim.cz/czechitas/daweb/react/seznamy/#exc-opakovani-map
-- Vypracování: [01-shortening](03-lists/01-shortening)
+- Vypracování: [02-map](03-lists/02-map)
+
+### 3 - Česká města
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/seznamy/#exc-ceska-mesta
+- Vypracování: [03-czech-cities](03-lists/03-czech-cities)
+
+### 4 - Česká města 2
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/seznamy/#exc-ceska-mesta-2
+- Vypracování: [04-czech-cities-2](03-lists/04-czech-cities-2)
