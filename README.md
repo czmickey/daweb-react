@@ -78,3 +78,13 @@ Materiály pro předmět React v rámci Digitální akademii: Web v Českých Bu
 
 - Zadání: https://kodim.cz/czechitas/daweb/react/seznamy/#exc-ceska-mesta-2
 - Vypracování: [04-czech-cities-2](03-lists/04-czech-cities-2)
+
+### 5 - Česká města 3 (na doma)
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/seznamy/#exc-ceska-mesta-3
+- Vypracování: [05-czech-cities-3](03-lists/05-czech-cities-3)
+
+### 6 - Podcasty (na doma)
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/seznamy/#exc-podcasty
+- Vypracování: [06-podcasts](03-lists/06-podcasts)
