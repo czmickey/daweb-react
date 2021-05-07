@@ -1,19 +1,11 @@
 # Poznámky k lekci
 
 - Komentáře
+
   - využívají složené závorky jako výrazy: `{ /* komentar */ }`
   - nelze vložit komentář mimo hlavní element
-- Hodnoty z proměnných pro parametry se neobalují do uvozovek: `className={vyraz}`
 
-```
-// JS
-<button onclick="activateLasers()">...
-
-// React
-<button onClick={activateLasers}>...
-```
-
-- Destrukturing
+- Destrukturing (bude řešen ještě později)
 
   - Získání hodnoty z objektu
 
