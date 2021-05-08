@@ -1,8 +1,8 @@
 import React from 'react';
 
-const City = ({ name, population, area }) => (
+const City = (props) => (
   <div className="city">
-    {name} (počet obyvatel: {population}, rozloha: {area})
+    {props.name} (počet obyvatel: {props.population}, rozloha: {props.area})
   </div>
 );
 

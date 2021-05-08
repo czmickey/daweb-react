@@ -1,14 +1,14 @@
 import React from 'react';
 
-const City = ({ name, population, area, district, photo }) => (
+const City = (props) => (
   <div className="city" style={{ margin: '10px' }}>
-    <strong>{name}</strong>
-    <img src={photo} style={{ display: 'block' }} />
-    Okres: {district}
+    <strong>{props.name}</strong>
+    <img src={props.photo} style={{ display: 'block' }} />
+    Okres: {props.district}
     <br />
-    Počet obyvatel: {population}
+    Počet obyvatel: {props.population}
     <br />
-    Rozloha: {area}
+    Rozloha: {props.area}
   </div>
 );
 

@@ -12,6 +12,18 @@ const App = () => (
     {cities.map((city, index) => (
       <City {...city} key={index} />
     ))}
+    {/* 
+        bez Rest operátoru:  
+        
+        <City
+          name={city.name}
+          photo={city.photo}
+          population={city.population}
+          area={city.area}
+          district={city.district}
+          key={index}
+        />
+    */}
   </>
 );
 

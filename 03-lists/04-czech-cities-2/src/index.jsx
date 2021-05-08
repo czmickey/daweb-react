@@ -62,7 +62,12 @@ const App = () => (
       <h1>Česká města</h1>
     </header>
     {cities.map((city, index) => (
-      <City {...city} key={index} />
+      <City
+        name={city.name}
+        population={city.population}
+        area={city.area}
+        key={index}
+      />
     ))}
   </>
 );

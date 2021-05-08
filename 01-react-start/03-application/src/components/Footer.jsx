@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Footer = ({ author }) => {
-  return <footer>{author}</footer>;
+const Footer = (props) => {
+  return <footer>{props.author}</footer>;
 };
 
 export default Footer;

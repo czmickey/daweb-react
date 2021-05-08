@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Today = ({ day, month, year }) => (
+const Today = (props) => (
   <>
     {/* prettier-ignore */}
     <div className="date">
-      <span className="day">{day}</span>.
-      <span className="month">{month}</span>.
-      <span className="year">{year}</span>
+      <span className="day">{props.day}</span>.
+      <span className="month">{props.month}</span>.
+      <span className="year">{props.year}</span>
     </div>
   </>
 );

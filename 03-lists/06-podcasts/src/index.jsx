@@ -20,6 +20,16 @@ const App = () => (
     {episodes.map((episode) => (
       <Episode {...episode} key={episode.num} />
     ))}
+    {/* 
+        bez Rest operátoru:  
+        
+        <Episode
+          key={episode.num}
+          num={episode.num}
+          title={episode.title}
+          guest={episode.guest}
+        />
+    */}
   </div>
 );
 render(<App />, document.querySelector('#app'));

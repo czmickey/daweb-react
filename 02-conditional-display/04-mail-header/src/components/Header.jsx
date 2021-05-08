@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Header = ({ user }) => {
+const Header = (props) => {
   return (
     <header>
       <div class="topbar container">
@@ -9,7 +9,7 @@ const Header = ({ user }) => {
           <div class="company">Mejlík.cz</div>
         </div>
 
-        {user === undefined ? (
+        {props.user === undefined ? (
           <div class="login">Přihlásit se</div>
         ) : (
           <div class="user">
