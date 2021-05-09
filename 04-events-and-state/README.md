@@ -54,3 +54,4 @@
     - pojmenování libovolné, ale jsou zažité způsoby
 
 - Cvičení
+  - Vypracování jsou v samostatném repozitáři
