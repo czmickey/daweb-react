@@ -116,3 +116,8 @@ Materiály pro předmět React v rámci Digitální akademii: Web v Českých Bu
 
 - Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-vyber-zeme
 - Vypracování: [02-choose-country](05-forms-and-effects/02-choose-country)
+
+### 3 - Podmínky registrace
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-podminky-registrace
+- Vypracování: [03-registration-requirements](05-forms-and-effects/03-registration-requirements)
