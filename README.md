@@ -121,3 +121,13 @@ Materiály pro předmět React v rámci Digitální akademii: Web v Českých Bu
 
 - Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-podminky-registrace
 - Vypracování: [03-registration-requirements](05-forms-and-effects/03-registration-requirements)
+
+### 4 - Pražský čas
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-prazsky-cas
+- Vypracování: [04-prague-time](05-forms-and-effects/04-prague-time)
+
+### 5 - Výběr zóny
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-vyber-zony
+- Vypracování: [05-choose-timezone](05-forms-and-effects/05-choose-timezone)

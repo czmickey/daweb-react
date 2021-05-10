@@ -11,3 +11,14 @@
     - [Dokumentace](https://reactjs.org/docs/forms.html#controlled-components)
 
 - Cvičení
+
+- Efekty
+
+  - Použití v případě potřeby reagovat na vykreslování komponenty
+  - Například při prvním vykreslení komponenty
+    - První vykreslení - `useEffect` a jako druhý parametr prázdné pole
+    - například pro volání API
+  - Příklad - načítání aktuálního svátku
+
+- Cvičení
+  - ve 4. a 5. cvičení je problém s URL (více u konkrétního cvičení)
