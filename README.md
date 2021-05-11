@@ -88,3 +88,19 @@ Materiály pro předmět React v rámci Digitální akademii: Web v Českých Bu
 
 - Zadání: https://kodim.cz/czechitas/daweb/react/seznamy/#exc-podcasty
 - Vypracování: [06-podcasts](03-lists/06-podcasts)
+
+## 4. Události, stav
+
+### 1 - Události
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/udalosti-stav/#exc-udalosti
+- Vypracování
+  - https://github.com/czmickey/Cviceni-React-udalosti/tree/reseni-mo
+  - řešení od Filipa: https://github.com/Czechitas-podklady-WEB/Cviceni-React-udalosti/tree/reseni
+
+### 2 - Stav
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/udalosti-stav/#exc-stav
+- Vypracování
+  - https://github.com/czmickey/Cviceni-React-stav/tree/reseni-mo
+  - řešení od Filipa: https://github.com/Czechitas-podklady-WEB/Cviceni-React-stav/tree/reseni
