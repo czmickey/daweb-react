@@ -1,33 +1,5 @@
 # Poznámky k lekci
 
-- Objektový přístup k psaní Reactu
-
-  - píšeme třídy a dědíme od `React.Component`
-
-  ```
-  // Funkcionálně
-  const ShoppingList = () => {
-    return (
-      <div>
-        <span>Web</span>
-      </div>
-    );
-  };
-
-  // Objektově
-  class ShoppingList extends React.Component {
-    render() {
-      return (
-        <div>
-          <span>Web</span>
-        </div>
-      );
-    }
-  }
-  ```
-
----
-
 - Události v Reactu
   - usnadněné napojení na událost - rovnou `onClick` místo `addEventListener`
   - použitelné události je možné vyčíst na [MDN - HTMLElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement)
@@ -55,3 +27,31 @@
 
 - Cvičení
   - Vypracování jsou v samostatném repozitáři
+
+---
+
+- Objektový přístup k psaní Reactu
+
+  - píšeme třídy a dědíme od `React.Component`
+
+  ```
+  // Funkcionálně
+  const ShoppingList = () => {
+    return (
+      <div>
+        <span>Web</span>
+      </div>
+    );
+  };
+
+  // Objektově
+  class ShoppingList extends React.Component {
+    render() {
+      return (
+        <div>
+          <span>Web</span>
+        </div>
+      );
+    }
+  }
+  ```
