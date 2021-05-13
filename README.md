@@ -104,3 +104,30 @@ Materiály pro předmět React v rámci Digitální akademii: Web v Českých Bu
 - Vypracování
   - https://github.com/czmickey/Cviceni-React-stav/tree/reseni-mo
   - řešení od Filipa: https://github.com/Czechitas-podklady-WEB/Cviceni-React-stav/tree/reseni
+
+## 5. Formulářové prvky, efekty
+
+### 1 - Registrace
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-registrace
+- Vypracování: [01-registration](05-forms-and-effects/01-registration)
+
+### 2 - Výběr země
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-vyber-zeme
+- Vypracování: [02-choose-country](05-forms-and-effects/02-choose-country)
+
+### 3 - Podmínky registrace
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-podminky-registrace
+- Vypracování: [03-registration-requirements](05-forms-and-effects/03-registration-requirements)
+
+### 4 - Pražský čas
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-prazsky-cas
+- Vypracování: [04-prague-time](05-forms-and-effects/04-prague-time)
+
+### 5 - Výběr zóny
+
+- Zadání: https://kodim.cz/czechitas/daweb/react/formulare-efekty/#exc-vyber-zony
+- Vypracování: [05-choose-timezone](05-forms-and-effects/05-choose-timezone)
